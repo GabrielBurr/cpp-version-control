@@ -1,6 +1,12 @@
 #include <iostream>
-int main()
+
+void greet()
 {
 	//Add a comment
 	std::cout << "Welcome!\n\n\n";
+}
+
+int main()
+{
+	greet();
 }
