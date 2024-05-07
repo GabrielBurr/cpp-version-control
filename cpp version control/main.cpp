@@ -3,12 +3,12 @@
 void greet()
 {
 	//Add a comment
-	std::cout << "Go Away!\n\n\n";
+	std::cout << "Welcome, and I must say you look stuning!\n\n\n";
 }
 
 void goodbye()
 {
-	std::cout << "Finaly . . . Goodbye!\n\n\n";
+	std::cout << "I am truly sad to go, Goodbye!\n\n\n";
 }
 
 int main()
