@@ -3,7 +3,7 @@
 void greet()
 {
 	//Add a comment
-	std::cout << "Welcome!\n\n\n";
+	std::cout << "Welcome, and I must say you look stuning!\n\n\n";
 }
 
 void goodbye()
