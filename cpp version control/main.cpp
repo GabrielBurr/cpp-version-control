@@ -8,7 +8,7 @@ void greet()
 
 void goodbye()
 {
-	std::cout << "Goodbye!\n\n\n";
+	std::cout << "Finaly . . . Goodbye!\n\n\n";
 }
 
 int main()
